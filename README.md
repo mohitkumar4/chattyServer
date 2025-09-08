@@ -73,20 +73,27 @@ Create a .env file in the backend directory and add the following environment va
 Code snippet
 
 PORT=5001
+
 MONGODB_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_jwt_secret_key
+
 NODE_ENV=development
 
 # Cloudinary Credentials
 CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+
 CLOUDINARY_API_KEY=your_cloudinary_api_key
+
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+
 Run the backend server:
 
 Bash
 
 npm run dev
 The server will start on http://localhost:5001.
+
 
 Frontend Setup
 Navigate to the frontend directory from the project root:
