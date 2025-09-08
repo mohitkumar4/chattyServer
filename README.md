@@ -1,4 +1,6 @@
 ChattyServer - Full-Stack Real-Time Chat Application
+
+
 A full-stack, real-time messaging application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and powered by Socket.IO for instant, bi-directional communication. This platform allows users to sign up, log in, find other users, and engage in private, one-on-one conversations with live online presence indicators and image sharing capabilities.
 
 ✨ [Live Site / Deployed App Link]
